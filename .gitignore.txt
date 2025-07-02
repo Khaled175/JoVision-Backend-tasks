@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosf
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.build
+*.log
+*.obj
+*.pdb
+*.tlb
+*.tlh
+*.tmp
+*.bak
+*.cache
+*.aps
+*.ncb
+*.opendb
+*.res
+*.sbr
+*.scc
+*.vspscc
+*.vssscc
+*.vsp
+*.vshost
+*.webinfo
+*.resharper
+*.dotCover
+*.kpf
+
+# Packages
+*.nupkg
+# The packages folder can be ignored because NuGet restores packages automatically
+packages/
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper.*/
+*.DotSettings
+*.DotSettings.user
+
+# Binaries
+bin/
+obj/
+
+# Test Results
+TestResults/
